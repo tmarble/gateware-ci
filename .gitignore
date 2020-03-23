@@ -1,3 +1,5 @@
+/.git-ci
+
 *~
 /build/*
 __pycache__/
