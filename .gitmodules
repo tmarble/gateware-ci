@@ -5,6 +5,7 @@
 [submodule "deps/gateware"]
 	path = deps/gateware
 	url = https://github.com/betrusted-io/gateware.git
+	notify = tmarble@gmail.com
 [submodule "deps/migen"]
 	path = deps/migen
 	url = https://github.com/m-labs/migen.git
