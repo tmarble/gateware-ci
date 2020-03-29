@@ -2,10 +2,13 @@
 	path = deps/litex
 	url = https://github.com/enjoy-digital/litex.git
 	notify = tmarble@gmail.com tmarble@info9.net
+	notify = tmarble@info9.net
 [submodule "deps/gateware"]
 	path = deps/gateware
 	url = https://github.com/betrusted-io/gateware.git
 	notify = tmarble@gmail.com
+	notify = tmarble@gmail.com tmarble@info9.net
+	notify = tmarble@info9.net
 [submodule "deps/migen"]
 	path = deps/migen
 	url = https://github.com/m-labs/migen.git
